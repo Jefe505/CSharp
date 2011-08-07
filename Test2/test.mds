@@ -1,0 +1,16 @@
+<Combine name="test" fileversion="2.0">
+  <Configurations>
+    <Configuration name="Debug" ctype="CombineConfiguration">
+      <Entry build="True" name="test" />
+    </Configuration>
+    <Configuration name="Release" ctype="CombineConfiguration">
+      <Entry build="True" name="test" />
+    </Configuration>
+  </Configurations>
+  <StartMode startupentry="test" single="True">
+    <Execute type="None" entry="test" />
+  </StartMode>
+  <Entries>
+    <Entry filename="./test.mdp" />
+  </Entries>
+</Combine>

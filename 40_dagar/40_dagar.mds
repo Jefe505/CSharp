@@ -1,0 +1,16 @@
+<Combine name="40_dagar" fileversion="2.0">
+  <Configurations>
+    <Configuration name="Debug" ctype="CombineConfiguration">
+      <Entry build="True" name="40_dagar" />
+    </Configuration>
+    <Configuration name="Release" ctype="CombineConfiguration">
+      <Entry build="True" name="40_dagar" />
+    </Configuration>
+  </Configurations>
+  <StartMode startupentry="40_dagar" single="True">
+    <Execute type="None" entry="40_dagar" />
+  </StartMode>
+  <Entries>
+    <Entry filename="./40_dagar.mdp" />
+  </Entries>
+</Combine>
