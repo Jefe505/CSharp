@@ -15,5 +15,10 @@ namespace Learning2
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hello to you to.", "Greetings", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Asterisk);
+        }
     }
 }
