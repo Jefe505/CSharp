@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Learning5">
+</Property><Property Name="Solution File" Value="D:\Programmering\CSharp\Learning5\Learning5.sln">
+</Property><Property Name="User Options File" Value="D:\Programmering\CSharp\Learning5\Learning5.suo">
+</Property><Property Name="Date" Value="den 9 november 2011">
+</Property><Property Name="Time" Value="00:10">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Learning5.sln" Description="File successfully backed up as D:\Programmering\CSharp\Learning5\Backup\Learning5.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Learning5.suo" Description="File successfully backed up as D:\Programmering\CSharp\Learning5\Backup\Learning5.suo">
+</Event><Event ErrorLevel="0" Project="Learning5" Source="Learning5\Learning5.csproj" Description="Project file successfully backed up as D:\Programmering\CSharp\Learning5\Backup\Learning5\Learning5.csproj">
+</Event><Event ErrorLevel="0" Project="Learning5" Source="Learning5\Learning5.csproj.user" Description="Project user file successfully backed up as D:\Programmering\CSharp\Learning5\Backup\Learning5\Learning5.csproj.user">
+</Event><Event ErrorLevel="0" Project="Learning5" Source="Learning5\Form1.cs" Description="File successfully backed up as D:\Programmering\CSharp\Learning5\Backup\Learning5\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Learning5" Source="Learning5\Form1.Designer.cs" Description="File successfully backed up as D:\Programmering\CSharp\Learning5\Backup\Learning5\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Learning5" Source="Learning5\Program.cs" Description="File successfully backed up as D:\Programmering\CSharp\Learning5\Backup\Learning5\Program.cs">
+</Event><Event ErrorLevel="0" Project="Learning5" Source="Learning5\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Programmering\CSharp\Learning5\Backup\Learning5\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Learning5" Source="Learning5\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Programmering\CSharp\Learning5\Backup\Learning5\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Learning5" Source="Learning5\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Programmering\CSharp\Learning5\Backup\Learning5\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Learning5" Source="Learning5\Properties\Settings.settings" Description="File successfully backed up as D:\Programmering\CSharp\Learning5\Backup\Learning5\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Learning5" Source="Learning5\Form1.resx" Description="File successfully backed up as D:\Programmering\CSharp\Learning5\Backup\Learning5\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Learning5" Source="Learning5\Properties\Resources.resx" Description="File successfully backed up as D:\Programmering\CSharp\Learning5\Backup\Learning5\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Learning5" Source="Learning5\Learning5.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Learning5" Source="Learning5\Learning5.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Learning5.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Learning5.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Learning5" Source="Learning5\Learning5.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

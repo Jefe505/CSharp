@@ -6,3 +6,5 @@ C:\Users\Calle\AppData\Local\Temporary Projects\Learning5\obj\Debug\Learning5.Pr
 C:\Users\Calle\AppData\Local\Temporary Projects\Learning5\obj\Debug\Learning5.csproj.GenerateResource.Cache
 C:\Users\Calle\AppData\Local\Temporary Projects\Learning5\obj\Debug\Learning5.exe
 C:\Users\Calle\AppData\Local\Temporary Projects\Learning5\obj\Debug\Learning5.pdb
+D:\Programmering\CSharp\Learning5\Learning5\obj\Debug\Learning5.exe
+D:\Programmering\CSharp\Learning5\Learning5\obj\Debug\Learning5.pdb
