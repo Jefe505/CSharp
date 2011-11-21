@@ -1,8 +1,0 @@
-D:\Programmering\CSharp\Learning4\Learning4\bin\Debug\Learning4.exe
-D:\Programmering\CSharp\Learning4\Learning4\bin\Debug\Learning4.pdb
-D:\Programmering\CSharp\Learning4\Learning4\obj\Debug\ResolveAssemblyReference.cache
-D:\Programmering\CSharp\Learning4\Learning4\obj\Debug\Learning4.Form1.resources
-D:\Programmering\CSharp\Learning4\Learning4\obj\Debug\Learning4.Properties.Resources.resources
-D:\Programmering\CSharp\Learning4\Learning4\obj\Debug\Learning4.csproj.GenerateResource.Cache
-D:\Programmering\CSharp\Learning4\Learning4\obj\Debug\Learning4.exe
-D:\Programmering\CSharp\Learning4\Learning4\obj\Debug\Learning4.pdb
