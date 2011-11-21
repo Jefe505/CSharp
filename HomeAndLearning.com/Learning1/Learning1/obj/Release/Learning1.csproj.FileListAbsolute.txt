@@ -1,0 +1,5 @@
+D:\Programmering\CSharp\Learning1\Learning1\bin\Release\Learning1.exe
+D:\Programmering\CSharp\Learning1\Learning1\bin\Release\Learning1.pdb
+D:\Programmering\CSharp\Learning1\Learning1\obj\Release\ResolveAssemblyReference.cache
+D:\Programmering\CSharp\Learning1\Learning1\obj\Release\Learning1.exe
+D:\Programmering\CSharp\Learning1\Learning1\obj\Release\Learning1.pdb

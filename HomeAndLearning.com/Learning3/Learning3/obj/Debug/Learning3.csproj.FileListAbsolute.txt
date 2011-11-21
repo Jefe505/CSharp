@@ -1,0 +1,17 @@
+D:\Programmering\CSharp\Learning3\Learning3\bin\Debug\Learning3.exe
+D:\Programmering\CSharp\Learning3\Learning3\bin\Debug\Learning3.pdb
+D:\Programmering\CSharp\Learning3\Learning3\obj\Debug\ResolveAssemblyReference.cache
+D:\Programmering\CSharp\Learning3\Learning3\obj\Debug\Learning3.Form1.resources
+D:\Programmering\CSharp\Learning3\Learning3\obj\Debug\Learning3.Properties.Resources.resources
+D:\Programmering\CSharp\Learning3\Learning3\obj\Debug\Learning3.csproj.GenerateResource.Cache
+D:\Programmering\CSharp\Learning3\Learning3\obj\Debug\Learning3.exe
+D:\Programmering\CSharp\Learning3\Learning3\obj\Debug\Learning3.pdb
+E:\Programmering\CSharp\Learning3\Learning3\obj\Debug\Learning3.exe
+E:\Programmering\CSharp\Learning3\Learning3\obj\Debug\Learning3.pdb
+E:\Programmering\CSharp\Learning3\Learning3\bin\Debug\Learning3.exe
+E:\Programmering\CSharp\Learning3\Learning3\bin\Debug\Learning3.pdb
+E:\Programmering\CSharp\Learning3\Learning3\obj\Debug\ResolveAssemblyReference.cache
+E:\Programmering\CSharp\Learning3\Learning3\obj\Debug\Learning3.Form1.resources
+E:\Programmering\CSharp\Learning3\Learning3\obj\Debug\Learning3.Properties.Resources.resources
+E:\Programmering\CSharp\Learning3\Learning3\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Programmering\CSharp\Learning3\Learning3\obj\Debug\GenerateResource-ResGen.write.1.tlog
