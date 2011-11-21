@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Learning3">
+</Property><Property Name="Solution File" Value="D:\Programmering\CSharp\Learning3\Learning3.sln">
+</Property><Property Name="User Options File" Value="D:\Programmering\CSharp\Learning3\Learning3.suo">
+</Property><Property Name="Date" Value="den 9 november 2011">
+</Property><Property Name="Time" Value="00:09">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Learning3.sln" Description="File successfully backed up as D:\Programmering\CSharp\Learning3\Backup\Learning3.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Learning3.suo" Description="File successfully backed up as D:\Programmering\CSharp\Learning3\Backup\Learning3.suo">
+</Event><Event ErrorLevel="0" Project="Learning3" Source="Learning3\Learning3.csproj" Description="Project file successfully backed up as D:\Programmering\CSharp\Learning3\Backup\Learning3\Learning3.csproj">
+</Event><Event ErrorLevel="0" Project="Learning3" Source="Learning3\Learning3.csproj.user" Description="Project user file successfully backed up as D:\Programmering\CSharp\Learning3\Backup\Learning3\Learning3.csproj.user">
+</Event><Event ErrorLevel="0" Project="Learning3" Source="Learning3\Form1.cs" Description="File successfully backed up as D:\Programmering\CSharp\Learning3\Backup\Learning3\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Learning3" Source="Learning3\Form1.Designer.cs" Description="File successfully backed up as D:\Programmering\CSharp\Learning3\Backup\Learning3\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Learning3" Source="Learning3\Program.cs" Description="File successfully backed up as D:\Programmering\CSharp\Learning3\Backup\Learning3\Program.cs">
+</Event><Event ErrorLevel="0" Project="Learning3" Source="Learning3\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Programmering\CSharp\Learning3\Backup\Learning3\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Learning3" Source="Learning3\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Programmering\CSharp\Learning3\Backup\Learning3\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Learning3" Source="Learning3\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Programmering\CSharp\Learning3\Backup\Learning3\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Learning3" Source="Learning3\Properties\Settings.settings" Description="File successfully backed up as D:\Programmering\CSharp\Learning3\Backup\Learning3\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Learning3" Source="Learning3\Form1.resx" Description="File successfully backed up as D:\Programmering\CSharp\Learning3\Backup\Learning3\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Learning3" Source="Learning3\Properties\Resources.resx" Description="File successfully backed up as D:\Programmering\CSharp\Learning3\Backup\Learning3\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Learning3" Source="Learning3\Learning3.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Learning3" Source="Learning3\Learning3.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Learning3.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Learning3.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Learning3" Source="Learning3\Learning3.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

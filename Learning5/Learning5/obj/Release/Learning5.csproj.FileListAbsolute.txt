@@ -1,0 +1,8 @@
+C:\Users\Calle\AppData\Local\Temporary Projects\Learning5\bin\Release\Learning5.exe
+C:\Users\Calle\AppData\Local\Temporary Projects\Learning5\bin\Release\Learning5.pdb
+C:\Users\Calle\AppData\Local\Temporary Projects\Learning5\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Calle\AppData\Local\Temporary Projects\Learning5\obj\Release\Learning5.Form1.resources
+C:\Users\Calle\AppData\Local\Temporary Projects\Learning5\obj\Release\Learning5.Properties.Resources.resources
+C:\Users\Calle\AppData\Local\Temporary Projects\Learning5\obj\Release\Learning5.csproj.GenerateResource.Cache
+C:\Users\Calle\AppData\Local\Temporary Projects\Learning5\obj\Release\Learning5.exe
+C:\Users\Calle\AppData\Local\Temporary Projects\Learning5\obj\Release\Learning5.pdb

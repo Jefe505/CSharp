@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual C# Express 2008
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning3", "Learning3\Learning3.csproj", "{3E95B955-1FF5-4F5F-B725-98AD099FB7F3}"
 EndProject
 Global

@@ -1,0 +1,2 @@
+D:\Programmering\CSharp\Test\Test\obj\Debug\Test.exe
+D:\Programmering\CSharp\Test\Test\obj\Debug\Test.pdb
