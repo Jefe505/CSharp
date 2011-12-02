@@ -1,5 +1,0 @@
-C:\Users\Calle\AppData\Local\Temporary Projects\P2Ch1\bin\Debug\P2Ch1.exe
-C:\Users\Calle\AppData\Local\Temporary Projects\P2Ch1\bin\Debug\P2Ch1.pdb
-C:\Users\Calle\AppData\Local\Temporary Projects\P2Ch1\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Calle\AppData\Local\Temporary Projects\P2Ch1\obj\x86\Debug\P2Ch1.exe
-C:\Users\Calle\AppData\Local\Temporary Projects\P2Ch1\obj\x86\Debug\P2Ch1.pdb

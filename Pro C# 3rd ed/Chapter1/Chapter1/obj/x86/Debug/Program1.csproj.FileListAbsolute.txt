@@ -1,0 +1,7 @@
+D:\Programmering\CSharp\Pro C# 3rd ed\P1Ch1\P1Ch1\bin\Debug\Program1.exe
+D:\Programmering\CSharp\Pro C# 3rd ed\P1Ch1\P1Ch1\bin\Debug\Program1.pdb
+D:\Programmering\CSharp\Pro C# 3rd ed\P1Ch1\P1Ch1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programmering\CSharp\Pro C# 3rd ed\P1Ch1\P1Ch1\obj\x86\Debug\Program1.exe
+D:\Programmering\CSharp\Pro C# 3rd ed\P1Ch1\P1Ch1\obj\x86\Debug\Program1.pdb
+D:\Programmering\CSharp\Pro C# 3rd ed\Chapter1\Chapter1\obj\x86\Debug\Program1.exe
+D:\Programmering\CSharp\Pro C# 3rd ed\Chapter1\Chapter1\obj\x86\Debug\Program1.pdb
