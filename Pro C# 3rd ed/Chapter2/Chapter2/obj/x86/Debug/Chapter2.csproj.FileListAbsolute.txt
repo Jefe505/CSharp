@@ -1,0 +1,5 @@
+D:\Programmering\CSharp\Pro C# 3rd ed\Chapter2\Chapter2\bin\Debug\Chapter2.exe
+D:\Programmering\CSharp\Pro C# 3rd ed\Chapter2\Chapter2\bin\Debug\Chapter2.pdb
+D:\Programmering\CSharp\Pro C# 3rd ed\Chapter2\Chapter2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programmering\CSharp\Pro C# 3rd ed\Chapter2\Chapter2\obj\x86\Debug\Chapter2.exe
+D:\Programmering\CSharp\Pro C# 3rd ed\Chapter2\Chapter2\obj\x86\Debug\Chapter2.pdb

@@ -9,6 +9,42 @@ namespace Chapter2
     {
         static void Main(string[] args)
         {
+            int test;
+            string answer;
+            while (true)
+            {
+                Console.Clear();
+                Console.WriteLine("Which test to run?");
+                Console.WriteLine("1 Objects?\t\t 2 Refs?");
+                Console.WriteLine("3 Overloading?");
+                Console.WriteLine("E Exit?");
+
+                answer = Console.ReadLine();
+
+                if (answer.Equals("e") || answer.Equals("E"))
+                    return;
+                try
+                {
+                    test = int.Parse(answer);
+                }
+                catch (FormatException e)
+                {
+                    Console.WriteLine("Don't understand option.");
+                    continue;
+                }
+                switch (test)
+                {
+                    case 1:
+                        Program1.objects();
+                        break;
+                    case 2:
+                        Program2.parameters();
+                        break;
+                    case 3:
+                        Program3.overloading();
+                        break;
+                }
+            }
         }
     }
 }
