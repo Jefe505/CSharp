@@ -15,6 +15,7 @@ namespace Chapter1
         /// </summary>
         internal static void preprocessor()
         {
+            Console.Clear();
             Console.WriteLine("Class started.");
 #if PRODEBUG
             Console.WriteLine("Prodebuging enabled.");
@@ -24,6 +25,9 @@ namespace Chapter1
 #endif
             Console.WriteLine("Class endning");
             Console.ReadLine();
+
+            Console.ReadLine();
+            return;
         }
     }
 }

@@ -12,6 +12,7 @@ namespace Chapter1
         /// </summary>
         internal static void formatingStrings()
         {
+            Console.Clear();
             decimal i = 948.1993m, j = 3.390490209m;
             double k = 313131.01001;
             int a=13, b=2;
@@ -22,6 +23,8 @@ namespace Chapter1
             Console.WriteLine("{0:G2}", i - j);
             Console.WriteLine("{0:X2}", a + b);
             Console.WriteLine("{0:#.000}", k);
+
+            Console.ReadLine();
             return;
         }
     }

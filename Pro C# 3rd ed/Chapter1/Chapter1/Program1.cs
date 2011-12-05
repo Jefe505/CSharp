@@ -9,6 +9,7 @@ namespace Chapter1
         /// </summary>
         internal static void Variables()
         {
+            Console.Clear();
             string s = "Hej";
             string s2 = @"Hejsan\hopp
 san";
@@ -26,6 +27,7 @@ san";
             Console.WriteLine("bo = " + bo);
             Console.WriteLine("array = " + array[0] + ", " + array[1] + ", " + array[2]);
 
+            Console.ReadLine();
             return;
         }
     }

@@ -15,8 +15,8 @@ namespace Chapter2
             {
                 Console.Clear();
                 Console.WriteLine("Which test to run?");
-                Console.WriteLine("1 Objects?\t\t 2 Refs?");
-                Console.WriteLine("3 Overloading?");
+                Console.WriteLine("1 Objects?\t 2 Refs?");
+                Console.WriteLine("3 Overloading?\t 4 ReadWrite?");
                 Console.WriteLine("E Exit?");
 
                 answer = Console.ReadLine();
@@ -42,6 +42,9 @@ namespace Chapter2
                         break;
                     case 3:
                         Program3.overloading();
+                        break;
+                    case 4:
+                        Program4.readWrite();
                         break;
                 }
             }

@@ -22,6 +22,7 @@ namespace Chapter1
 
             while (true)
             {
+                Console.Clear();
                 Console.WriteLine("Which part to show? ");
                 Console.WriteLine("1 Variables? \t\t 2 Loops?");
                 Console.WriteLine("3 Enumerations? \t 4 Arrays?");

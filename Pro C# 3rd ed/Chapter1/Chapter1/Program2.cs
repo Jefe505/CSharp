@@ -12,6 +12,7 @@ namespace Chapter1
         /// </summary>
         internal static void loops()
         {
+            Console.Clear();
             int[] i = new int[5] { 1, 2, 3, 4, 5 };
             int j;
 
@@ -53,6 +54,8 @@ namespace Chapter1
             {
                 Console.WriteLine(temp);
             }
+
+            Console.ReadLine();
             return;
         }
     }

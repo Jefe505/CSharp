@@ -54,6 +54,7 @@ namespace Chapter1
         /// </summary>
         internal static void structs()
         {
+            Console.Clear();
             Point point = new Point();
 
             point.x = getNumber("x");
@@ -64,6 +65,7 @@ namespace Chapter1
             point.DisplayPoint();
 
             Console.ReadLine();
+            return;
         }
 
         /// <summary>

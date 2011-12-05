@@ -12,6 +12,7 @@ namespace Chapter1
         /// </summary>
         internal static void arrays()
         {
+            Console.Clear();
             int[] i = new int[4] { 1, 2, 3, 4 };
             string[] s = new string[3] { "Ett", "Två", "Tre" };
             int k = 0;
@@ -25,6 +26,7 @@ namespace Chapter1
             foreach (string st in s)
                 Console.WriteLine(st);
 
+            Console.ReadLine();
             return;
         }
     }

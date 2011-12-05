@@ -11,11 +11,13 @@ namespace Chapter1
 
         internal static void enums2 ()
         {
+            Console.Clear();
             Console.WriteLine(enumeration.Två.ToString());
             Console.WriteLine((int) enumeration.Sträng);
 
             print();
 
+            Console.ReadLine();
             return;
         }
 
