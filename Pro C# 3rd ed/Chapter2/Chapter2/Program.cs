@@ -17,7 +17,7 @@ namespace Chapter2
                 Console.WriteLine("Which test to run?");
                 Console.WriteLine("1 Objects?\t 2 Refs?");
                 Console.WriteLine("3 Overloading?\t 4 ReadWrite?");
-                Console.WriteLine("5 Constructor?");
+                Console.WriteLine("5 Constructor?\t 6 Struct?");
                 Console.WriteLine("E Exit?");
 
                 answer = Console.ReadLine();
@@ -49,6 +49,9 @@ namespace Chapter2
                         break;
                     case 5:
                         Program5.constructor();
+                        break;
+                    case 6:
+                        Program6.structOne();
                         break;
                 }
             }

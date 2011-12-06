@@ -7,6 +7,7 @@ namespace Chapter2
 {
     class Program5
     {
+        static readonly int number = 1;
         internal static void constructor()
         {
             Console.Clear();
@@ -18,13 +19,17 @@ namespace Chapter2
             return;
         }
 
+        static Program5()
+        {
+            number = 2;
+        }
         private Program5():this("p1")
         {
-            Console.WriteLine("Constructor, no text");
+            Console.WriteLine("Constructor, no text\nNumber: {0}", number);
         }
         private Program5(string text)
         {
-            Console.WriteLine("Constructor + {0}", text);
+            Console.WriteLine("Constructor + {0}\nNumber: {1}", text, number);
         }
     }
 }
