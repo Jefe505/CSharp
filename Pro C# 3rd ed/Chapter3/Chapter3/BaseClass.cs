@@ -16,5 +16,10 @@ namespace Chapter3
         {
             Console.WriteLine("BaseClass print()");
         }
+
+        public virtual int math(int a, int b)
+        {
+            return a + b;
+        }
     }
 }

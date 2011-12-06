@@ -17,6 +17,9 @@ namespace Chapter3
             b.print();
             p.print();
 
+            Console.WriteLine("BaseClass.math: {0}", b.math(2, 3));
+            Console.WriteLine("Inheritance.math: {0}", p.math(2, 3));
+
             Console.ReadLine();
             return;
         }
@@ -27,6 +30,12 @@ namespace Chapter3
         public void print()
         {
             Console.WriteLine("Inheritance class print()");
+        }
+
+        public override int math(int a, int b)
+        {
+            Console.WriteLine("Overriding baseclass.math to multiply");
+            return a*b;
         }
     }
 }
