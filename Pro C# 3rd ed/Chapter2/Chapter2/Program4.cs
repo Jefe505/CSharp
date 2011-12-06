@@ -7,6 +7,25 @@ namespace Chapter2
 {
     class Program4
     {
+        internal static void readWrite()
+        {
+            Console.Clear();
+
+            Prog4Test.Name = "Hello";
+            Console.WriteLine("Name: {0}", Prog4Test.Name);
+
+            Prog4Test.Nagging = "Hello";
+            Console.WriteLine("Nagging set to 'Hello'");
+
+            Console.WriteLine("Personnumber: {0}", Prog4Test.PersonNr);
+
+            Console.ReadLine();
+            return;
+        }
+    }
+
+    class Prog4Test
+    {
         private static string name;
         private static string nagging;
         private static int personNr = 800101;
@@ -37,22 +56,6 @@ namespace Chapter2
             {
                 nagging = value;
             }
-        }
-
-        internal static void readWrite()
-        {
-            Console.Clear();
-
-            Program4.Name = "Hello";
-            Console.WriteLine("Name: {0}", Program4.Name);
-
-            Program4.Nagging = "Hello";
-            Console.WriteLine("Nagging set to 'Hej'");
-
-            Console.WriteLine("Personnumber: {0}", Program4.PersonNr);
-
-            Console.ReadLine();
-            return;
         }
     }
 }
