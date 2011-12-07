@@ -5,19 +5,24 @@ using System.Text;
 
 namespace Chapter3
 {
-    public class BaseClass
+    abstract public class AbstractBaseClass
+    {
+        abstract public void print();
+        abstract public int math(int a, int b);
+    }
+    public class BaseClass : AbstractBaseClass
     {
         public BaseClass()
         {
             Console.WriteLine("BaseClass constructor");
         }
 
-        public void print()
+        public override void print()
         {
             Console.WriteLine("BaseClass print()");
         }
 
-        public virtual int math(int a, int b)
+        public override int math(int a, int b)
         {
             return a + b;
         }

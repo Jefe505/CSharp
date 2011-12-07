@@ -23,10 +23,12 @@ namespace Chapter3
             Console.ReadLine();
             return;
         }
+        
         public Program1()
         {
             Console.WriteLine("Inheritance class constructor");
         }
+
         public void print()
         {
             Console.WriteLine("Inheritance class print()");
