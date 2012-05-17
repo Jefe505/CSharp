@@ -1,0 +1,18 @@
+C:\Users\Calle\AppData\Local\Temporary Projects\WoWRun\bin\Debug\WoWRun.exe
+C:\Users\Calle\AppData\Local\Temporary Projects\WoWRun\bin\Debug\WoWRun.pdb
+C:\Users\Calle\AppData\Local\Temporary Projects\WoWRun\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Calle\AppData\Local\Temporary Projects\WoWRun\obj\x86\Debug\WoWRun.Form1.resources
+C:\Users\Calle\AppData\Local\Temporary Projects\WoWRun\obj\x86\Debug\WoWRun.Properties.Resources.resources
+C:\Users\Calle\AppData\Local\Temporary Projects\WoWRun\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Calle\AppData\Local\Temporary Projects\WoWRun\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Calle\AppData\Local\Temporary Projects\WoWRun\obj\x86\Debug\WoWRun.exe
+C:\Users\Calle\AppData\Local\Temporary Projects\WoWRun\obj\x86\Debug\WoWRun.pdb
+D:\Programmering\CSharp\Pro C# 3rd ed\WoWRun\WoWRun\obj\x86\Debug\WoWRun.exe
+D:\Programmering\CSharp\Pro C# 3rd ed\WoWRun\WoWRun\obj\x86\Debug\WoWRun.pdb
+D:\Programmering\CSharp\Pro C# 3rd ed\WoWRun\WoWRun\bin\Debug\WoWRun.exe
+D:\Programmering\CSharp\Pro C# 3rd ed\WoWRun\WoWRun\bin\Debug\WoWRun.pdb
+D:\Programmering\CSharp\Pro C# 3rd ed\WoWRun\WoWRun\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programmering\CSharp\Pro C# 3rd ed\WoWRun\WoWRun\obj\x86\Debug\WoWRun.Form1.resources
+D:\Programmering\CSharp\Pro C# 3rd ed\WoWRun\WoWRun\obj\x86\Debug\WoWRun.Properties.Resources.resources
+D:\Programmering\CSharp\Pro C# 3rd ed\WoWRun\WoWRun\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Programmering\CSharp\Pro C# 3rd ed\WoWRun\WoWRun\obj\x86\Debug\GenerateResource.write.1.tlog
