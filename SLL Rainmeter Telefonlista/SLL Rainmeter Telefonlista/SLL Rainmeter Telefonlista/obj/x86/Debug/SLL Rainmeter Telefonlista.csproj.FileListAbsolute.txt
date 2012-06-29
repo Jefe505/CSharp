@@ -1,0 +1,9 @@
+D:\Programmering\CSharp\SLL Rainmeter Telefonlista\SLL Rainmeter Telefonlista\SLL Rainmeter Telefonlista\bin\Debug\SLL Rainmeter Telefonlista.exe
+D:\Programmering\CSharp\SLL Rainmeter Telefonlista\SLL Rainmeter Telefonlista\SLL Rainmeter Telefonlista\bin\Debug\SLL Rainmeter Telefonlista.pdb
+D:\Programmering\CSharp\SLL Rainmeter Telefonlista\SLL Rainmeter Telefonlista\SLL Rainmeter Telefonlista\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programmering\CSharp\SLL Rainmeter Telefonlista\SLL Rainmeter Telefonlista\SLL Rainmeter Telefonlista\obj\x86\Debug\SLL_Rainmeter_Telefonlista.Form1.resources
+D:\Programmering\CSharp\SLL Rainmeter Telefonlista\SLL Rainmeter Telefonlista\SLL Rainmeter Telefonlista\obj\x86\Debug\SLL_Rainmeter_Telefonlista.Properties.Resources.resources
+D:\Programmering\CSharp\SLL Rainmeter Telefonlista\SLL Rainmeter Telefonlista\SLL Rainmeter Telefonlista\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Programmering\CSharp\SLL Rainmeter Telefonlista\SLL Rainmeter Telefonlista\SLL Rainmeter Telefonlista\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Programmering\CSharp\SLL Rainmeter Telefonlista\SLL Rainmeter Telefonlista\SLL Rainmeter Telefonlista\obj\x86\Debug\SLL Rainmeter Telefonlista.exe
+D:\Programmering\CSharp\SLL Rainmeter Telefonlista\SLL Rainmeter Telefonlista\SLL Rainmeter Telefonlista\obj\x86\Debug\SLL Rainmeter Telefonlista.pdb
